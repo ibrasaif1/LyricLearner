@@ -20,3 +20,5 @@ For example, as his career progressed, Lil Wayne’s lyrics slowly transitioned 
 ![image](https://user-images.githubusercontent.com/76267788/134994967-42248afb-862c-4017-866f-1f31407b896d.png)
 
 If you have any comments or inquiries, feel free to reach out to ibrahim.saifullah1@gmail.com or arun22@utexas.edu
+
+This article can also be found at https://www.linkedin.com/pulse/lyriclearner-ai-music-generator-interpreter-ibrahim-saifullah/
